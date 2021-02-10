@@ -13,7 +13,7 @@
     "bootstrap": "^3.3.7",
     "connect-flash": "*",
     "cookie-parser": "*",
-    "ejs": "*",
+    "ejs": "3.1.6",
     "express": "*",
     "express-messages": "*",
     "express-session": "*",
