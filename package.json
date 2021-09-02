@@ -19,7 +19,7 @@
     "express-session": "*",
     "express-validator": "*",
     "mongodb": "*",
-    "mongoose": "*",
+    "mongoose": "6.0.4",
     "nodemon": "*",
     "passport": "*",
     "passport-http": "*",
